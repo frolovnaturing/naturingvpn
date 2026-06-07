@@ -4,7 +4,7 @@ exports.handler = async function(event, context) {
     statusCode: 200,
     headers: {
       'Content-Type': 'text/plain; charset=utf-8',
-      'Profile-Title': 'kvn.is-frolov.ru',
+      'Profile-Title': 'Naturin VPN - Будем на связи',
       'Profile-Update-Interval': '12',
       'Cache-Control': 'no-cache',
       'Access-Control-Allow-Origin': '*',
