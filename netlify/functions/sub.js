@@ -4,7 +4,7 @@ exports.handler = async function(event, context) {
     statusCode: 200,
     headers: {
       'Content-Type': 'text/plain; charset=utf-8',
-      'Profile-Title': 'Naturing VPN 06.08.26,
+      'Profile-Title': 'Naturing VPN 06.08.26',
       'Profile-Update-Interval': '12',
       'Cache-Control': 'no-cache',
       'Access-Control-Allow-Origin': '*',
